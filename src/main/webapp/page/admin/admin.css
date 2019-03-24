@@ -1,0 +1,37 @@
+.price-fall .x-change-cell {
+    background-color: #white;
+    color:red;
+}
+.price-rise .x-change-cell {
+    background-color: #red;
+    color:green;
+}
+.x-grid-row {
+line-height:13px;
+vertical-align:top;
+padding:0 1px;
+user-select:text!important;
+-o-user-select:text!important;
+-ms-user-select:text!important;
+-moz-user-select:-moz-none;
+-webkit-user-select:text!important;
+cursor:default
+}
+.x-grid-cell {
+overflow:hidden;
+font:normal 13px tahoma,arial,verdana,sans-serif;
+user-select:text!important;
+-o-user-select:text!important;
+-ms-user-select:text!important;
+-moz-user-select:-moz-none;
+-webkit-user-select:text!important;
+cursor:default
+}
+.x-unselectable {
+user-select:text!important;
+-o-user-select:text!important;
+-ms-user-select:text!important;
+-moz-user-select:-moz-none;
+-webkit-user-select:text!important;
+cursor:default
+}
