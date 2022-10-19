@@ -15,7 +15,7 @@
 		<java-version>1.6</java-version>
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 		<org.slf4j-version>1.7.5</org.slf4j-version>
-		<jackson.databind-version>2.8.11.1</jackson.databind-version>
+		<jackson.databind-version>2.13.4.1</jackson.databind-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version> 4.3.18.RELEASE</spring.version>
 		<hibernate.version>4.1.9.Final</hibernate.version>
